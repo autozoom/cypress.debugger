@@ -1,5 +1,5 @@
 - npm ci
-- ng e2e
+- npm run e2e
 - run spec.ts
 - open Chrome dev tools
 - place a breakpoint on one of the console.log statements in app.component.ts
